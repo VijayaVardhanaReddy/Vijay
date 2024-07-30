@@ -11,7 +11,7 @@ I'm Vijaya Vardhana Reddy, a passionate Computer Science and Engineering student
 - Databases: PostgreSQL, MySQL
 
 ## 🌱 Learning
-- I'm currently exploring [DeepLearning/NLP]. Continuous learning is my mantra, and I'm always excited to embrace new challenges.
+- I'm currently exploring [DeepLearning/NLP/LLM]. Continuous learning is my mantra, and I'm always excited to embrace new challenges.
 
 ## 🔗 Connect with Me:
 - 📧 Email: studymattersinlife@gmail.com

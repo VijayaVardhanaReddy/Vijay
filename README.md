@@ -7,11 +7,14 @@ I'm Vijaya Vardhana Reddy, a passionate Computer Science and Engineering student
 - 💡 Always ready to tackle challenging problems and find innovative solutions.
 
 ## 💻 Tech Stack
-- Languages: java, c++, html, js, python
-- Databases: PostgreSQL, MySQL
+- Languages: Java, Python
+- Web-tech: Html, CSS, java-script
+- Frameworks: React js, Express js
+- Databases: MySQL, PostgreSQL, MongoDB
+- Tools: VScode, Git
 
 ## 🌱 Learning
-- I'm currently exploring [DeepLearning/NLP/LLM]. Continuous learning is my mantra, and I'm always excited to embrace new challenges.
+- I'm currently exploring [AI/DeepLearning/NLP/LLM]. Continuous learning is my mantra, and I'm always excited to embrace new challenges.
 
 ## 🔗 Connect with Me:
 - 📧 Email: studymattersinlife@gmail.com
